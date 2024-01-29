@@ -1,0 +1,6 @@
+Warning: can't set `normalize_doc_attributes = true`, unstable features are only available in nightly channel.
+Warning: can't set `imports_layout = HorizontalVertical`, unstable features are only available in nightly channel.
+Warning: can't set `imports_granularity = One`, unstable features are only available in nightly channel.
+Warning: can't set `binop_separator = Back`, unstable features are only available in nightly channel.
+Warning: can't set `combine_control_expr = false`, unstable features are only available in nightly channel.
+Warning: can't set `trailing_semicolon = false`, unstable features are only available in nightly channel.

@@ -1,0 +1,12 @@
+/home/maxim/actix-wev/project-toot/project-toot/gui/target/debug/deps/libloading-f1b9894e2ef21c89.rmeta: /home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/lib.rs /home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/changelog.rs /home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/os/mod.rs /home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/os/unix/mod.rs /home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/os/unix/consts.rs /home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/util.rs /home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/error.rs /home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/safe.rs
+
+/home/maxim/actix-wev/project-toot/project-toot/gui/target/debug/deps/libloading-f1b9894e2ef21c89.d: /home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/lib.rs /home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/changelog.rs /home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/os/mod.rs /home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/os/unix/mod.rs /home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/os/unix/consts.rs /home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/util.rs /home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/error.rs /home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/safe.rs
+
+/home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/lib.rs:
+/home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/changelog.rs:
+/home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/os/mod.rs:
+/home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/os/unix/mod.rs:
+/home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/os/unix/consts.rs:
+/home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/util.rs:
+/home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/error.rs:
+/home/maxim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.1/src/safe.rs:
